@@ -1,4 +1,4 @@
-# MovieReviewWebsite
+# Movie Review Website
 
 The Movie Review Application is a full-stack application that enables users to write and check reviews about movies. The application is built using MongoDB for the database, Java and Spring Boot for the backend, and React for the frontend. 
 
