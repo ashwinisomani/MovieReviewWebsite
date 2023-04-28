@@ -7,9 +7,20 @@ Implement the necessary API endpoints for updating movie review. Use @PostMappin
 Test the REST API using Postman or any other REST client.
 
 
+Get All the list of Movie in JSON format
 ![E-commerce UI.](/img/GetAll.png)
+
+
+Get Single Movie Using imdbId
 ![E-commerce UI.](/img/GetSingleMovie.png)
+
+
+
+Post the review of Movie
 ![E-commerce UI.](/img/PostApi.png)
+
+
+Check Review posted 
 ![E-commerce UI.](/img/ReviewPost.png)
 
 
@@ -17,7 +28,10 @@ Implement the necessary components with necessary functionality like displaying 
 Use axios to make REST API calls to the Spring Boot backend and fetch the data.
 Use react-router-dom to handle client-side routing between different components.
 
+
 ![E-commerce UI.](/img/WebDesign.png)
+
+
 ![E-commerce UI.](/img/WriteReview.png)
 
 
