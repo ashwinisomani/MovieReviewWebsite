@@ -11,6 +11,7 @@ Get All the list of Movie in JSON format
 ![E-commerce UI.](/img/GetAll.png)
 
 
+
 Get Single Movie Using imdbId
 ![E-commerce UI.](/img/GetSingleMovie.png)
 
